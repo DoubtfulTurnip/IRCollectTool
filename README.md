@@ -1,6 +1,6 @@
 # IRCollectTool
 
-A quick and dirty PowerShell script to collect and analyse artifacts from a Windows system
+A quick and dirty PowerShell script to collect and analyse artefacts from a Windows system
 
 ## Install
 
