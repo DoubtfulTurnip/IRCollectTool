@@ -16,8 +16,8 @@ The script will run a series of tools and will provide the option to specify a n
 
 ## Tools currently included
 
-- Kansa 
-- KAPE (Needs to be manually added) 
-- DeepBlueCLI
-- WinPMEM
+- [Kansa](https://github.com/davehull/Kansa) 
+- [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) (Needs to be manually added) 
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
+- [WinPMEM](https://github.com/Velocidex/WinPmem)
 
