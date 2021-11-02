@@ -12,7 +12,7 @@ You will have to manually download and copy the [KAPE](https://www.kroll.com/en/
 
 ## Usage 
 
-The script will run a series of tools and will provide the option to specify a network share to transfer the results to or to save the results locally to a results folder within 
+The script will run a series of tools and will provide the option to specify a network share to transfer the results to or to save the results locally within the script folder 
 
 ## Tools currently included
 
