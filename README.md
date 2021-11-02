@@ -6,9 +6,9 @@ A quick and dirty PowerShell script to collect and analyse artifacts from a Wind
 
 The install script will clone the relevant tools into the the repo directory and can then be used by the script.
 
-You will have to manually download and copy the KAPE application into the folder 
+You will have to manually download and copy the KAPE[https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape] application into the folder 
 
-https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
+
 
 ## Usage 
 
